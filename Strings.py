@@ -1,0 +1,6 @@
+s1=input("Enter First String:")
+s2=input("Enter Second String:")
+print("First String is:",s1)
+print("Second String is:",s2)
+print("Concatenations of Two Stringss is:",s1+s2)
+print("Substring of Given String is:",s1[1:4])
